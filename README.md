@@ -1,3 +1,13 @@
+changes
+======================
+* anotations based Advices
+* cenario for debugging double execution of advices on internal methods (call VS execution)
+
+
+_______________________
+Original info
+======================
+
 fabric8-osgi-aspectj-demo
 ======================
 
